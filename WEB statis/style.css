@@ -1,0 +1,60 @@
+.clr{
+    color : black;
+    
+}
+.bg{
+    background-color: rgb(21, 103, 255);
+}
+.bgclr{
+  background-color: black;
+}
+.left{
+    margin-left: 50px;
+}
+.margin {
+    margin: 50px 200px 50px 200px;
+    width: 100;
+}
+
+.background1 {
+    background-color: rgb(0, 110, 169);
+}
+.background2 {
+    background-color: slategray;
+}
+.background3{
+    background-color: rgb(11, 163, 245);
+    padding: 40px;
+}
+.background4{
+    background-color: #959595;
+}
+.background5{
+    background-color: white;
+}
+.color {
+    color: white;
+}
+.mrgn{
+    margin-left: 15px;
+}
+.b{
+    background-color: rgb(0, 110, 169);
+    transition: 1s;
+}
+.b:hover {
+    background-color: #959595;
+        
+}
+.a{
+    color: #000000;
+    transition: 0,5s;
+    
+}
+.a:hover {
+    color: white;
+        
+}
+.blnk{
+    animation: blinker 1s linear infinite;
+}
